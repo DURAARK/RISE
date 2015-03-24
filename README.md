@@ -1,5 +1,7 @@
 # RISE - Detection of unobtrusive, untextured objects
-
+ 
+ (A detailed description on its functionality can be found in the report [D.5.2 Shape grammars for almost invisible objects, Software prototype v1](http://duraark.eu/wp-content/uploads/2015/03/DURAARK_D5.2.pdf))
+ 
 ## Introduction
 
 This console application is build to detect unobtrusive objects which are mostly defined by slight edges on fixed scaled images using computer vision methods.
